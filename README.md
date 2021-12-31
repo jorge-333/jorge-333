@@ -9,10 +9,10 @@
 - ✔️ Bug Bounty hunter on HackerOne, BugCrowd, and Intigriti, and a few Private Programs.
 - 😄  I enjoy surfing 🏄‍♂️, cycling 🚴 , and playing chess ♟️ on my time off.
  
-#### Tech and Tools
-- Scripting Languages
-   Python, PHP, JavaScript
-- Web Technologies
-   Node.js, React.js, AWS, MySQL, PostgresSQL, Bash, Git, Docker,
-- Security Tools
-   Suricata, Splunk, Yara, Burp Suite, Nessus, OpenVAS, Metasploit
+### <img src="Assets/Developer.gif" width="45px"> Technologies and Tools:
+Scripting Languages
+   - Python, PHP, JavaScript
+Web Technologies
+   - Node.js, React.js, AWS, MySQL, PostgresSQL, Bash, Git, Docker,
+Security Tools
+   - Suricata, Splunk, Yara, Burp Suite, Nessus, OpenVAS, Metasploit
