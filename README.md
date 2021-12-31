@@ -1,4 +1,4 @@
-### Hi there! <img src="Assets/Hi.gif" width="29px">
+## Hi there! <img src="Assets/Hi.gif" width="29px">
 ---
   <img align="right" src="Assets/6M8G.gif" width="50%" title="Intro Card" alt="Intro Card">
 
