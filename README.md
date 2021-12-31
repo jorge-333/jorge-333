@@ -11,7 +11,7 @@
  
 ### <img src="Assets/Developer.gif" width="45px"> Technologies and Tools:
 ##### Scripting Languages
-   - Python, PHP, JavaScript
+  Python, PHP, JavaScript
 ##### Web Technologies
    - Node.js, React.js, AWS, MySQL, PostgresSQL, Bash, Git, Docker,
 ##### Security Tools
