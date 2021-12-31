@@ -5,14 +5,14 @@
 ### <img src="Assets/Developer.gif" width="45px"> About Me:
 ---
 - 🔭  I’m currently diving in deeper into the concepts of Web Application Development and Security.
-- 🎓  I studied Information Technology at ASU, and my Msc in Software Engineering is in process.
-- ✔️ Bug Bounty hunter on HackerOne, BugCrowd, and Intigriti, and a few Private Programs.
+- 🎓  I studied Information Technology at ASU and went through their in-house coding bootcamp.
+- ✔️ Web Development, Cybersecurity, and Bug Bounty Enthusiast.
 - 😄  I enjoy surfing 🏄‍♂️, cycling 🚴 , and playing chess ♟️ on my time off.
  
-### <img src="Assets/Developer.gif" width="45px"> Technologies and Tools:
+### <img src="Assets/computer.gif" width="45px"> Technologies and Tools:
 ##### Scripting Languages
-  Python, PHP, JavaScript
+   - Python, PHP, JavaScript
 ##### Web Technologies
-   - Node.js, React.js, AWS, MySQL, PostgresSQL, Bash, Git, Docker,
+   - Node.js, React.js, AWS, MySQL, PostgresSQL, Bash, Git, Docker
 ##### Security Tools
    - Suricata, Splunk, Yara, Burp Suite, Nessus, OpenVAS, Metasploit
