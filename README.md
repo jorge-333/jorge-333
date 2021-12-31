@@ -1,8 +1,7 @@
 ### Hi there! <img src="Assets/Hi.gif" width="29px">
 ---
-<p align="center">
-  <img src="Assets/6M8G.gif" width="50%" title="Intro Card" alt="Intro Card">
-</p>
+  <img align="right" src="Assets/6M8G.gif" width="50%" title="Intro Card" alt="Intro Card">
+
 
 <!--
 **senornueve/senornueve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
