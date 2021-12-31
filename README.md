@@ -10,9 +10,9 @@
 - 😄  I enjoy surfing 🏄‍♂️, cycling 🚴 , and playing chess ♟️ on my time off.
  
 ### <img src="Assets/Developer.gif" width="45px"> Technologies and Tools:
-Scripting Languages
+##### Scripting Languages
    - Python, PHP, JavaScript
-Web Technologies
+##### Web Technologies
    - Node.js, React.js, AWS, MySQL, PostgresSQL, Bash, Git, Docker,
-Security Tools
+##### Security Tools
    - Suricata, Splunk, Yara, Burp Suite, Nessus, OpenVAS, Metasploit
