@@ -11,8 +11,7 @@
  
 ### <img src="Assets/computer.gif" width="45px"> Technologies and Tools:
 ---
-Scripting Languages
-   - Python, PHP, JavaScript<br/>
+Scripting Languages: - Python, PHP, JavaScript<br/>
  
 Web Technologies
    - Node.js, React.js, AWS, MySQL, PostgresSQL, Bash, Git, Docker<br/>
