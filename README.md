@@ -12,8 +12,8 @@
 ### <img src="Assets/computer.gif" width="45px"> Technologies and Tools:
 ---
 Scripting Languages
-   - Python, PHP, JavaScript
+   - Python, PHP, JavaScript<br/>
 Web Technologies
-   - Node.js, React.js, AWS, MySQL, PostgresSQL, Bash, Git, Docker
+   - Node.js, React.js, AWS, MySQL, PostgresSQL, Bash, Git, Docker<br/>
 Security Tools
-   - Suricata, Splunk, Yara, Burp Suite, Nessus, OpenVAS, Metasploit
+   - Suricata, Splunk, Yara, Burp Suite, Nessus, OpenVAS, Metasploit<br/>
