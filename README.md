@@ -11,6 +11,8 @@
  
 ### <img src="Assets/computer.gif" width="45px"> Technologies and Tools:
 ---
-- ⌨️ **Scripting Languages:** Python, PHP, JavaScript<br/>
-- 💾 **Web Technologies:** Node.js, React.js, AWS, MySQL, PostgresSQL, Bash, Git, Docker<br/>
-- 🔐 **Security Tools:** Suricata, Splunk, Yara, Burp Suite, Nessus, OpenVAS, Metasploit<br/>
+- ⌨️ **Scripting Languages:** Python, PHP, Bash<br/>
+- 💾 **Networking:** Network Fundamentals, TCP/IP, Virtualization, Wireshark, Packet Tracer.<br/>
+- 🕸️ **Web Technologies:** HTML, CSS/Bootstrap, Javascript, MySQL. (Novice) AWS, Git, Docker.<br/>
+- 🔐 **Information Security** Suricata, pfSense, Kali, Metasploit, Nessus, OpenVAS, Nmap, NIST, OWASP.<br/>
+
