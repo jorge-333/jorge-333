@@ -13,6 +13,6 @@
 ---
 - ⌨️ **Scripting Languages:** Python, PHP, Bash<br/>
 - 💾 **Networking:** Network Fundamentals, TCP/IP, Virtualization, Wireshark, Packet Tracer.<br/>
-- 🕸️ **Web Technologies:** HTML, CSS/Bootstrap, Javascript, MySQL. (Novice) AWS, Git, Docker.<br/>
+- 🕸️ **Web Technologies:** HTML, CSS/Bootstrap, Javascript, MySQL, AWS, Git, Docker.<br/>
 - 🔐 **Information Security** Suricata, pfSense, Kali, Metasploit, Nessus, OpenVAS, Nmap, NIST, OWASP.<br/>
 
