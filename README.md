@@ -4,8 +4,7 @@
 
 ### <img src="Assets/Developer.gif" width="45px"> About Me:
 ---
-- 🔭  I’m currently diving in deeper into the concepts of Web Application Development and Security.
-- 🎓  I studied Information Technology at ASU and went through their in-house coding bootcamp.
+
 - ✔️ Web Development, Cybersecurity, and Bug Bounty Enthusiast.
 - 😄  I enjoy surfing 🏄‍♂️, cycling 🚴 , and playing chess ♟️ on my time off.
  
